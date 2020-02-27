@@ -1,7 +1,7 @@
 Write the solution in the `main.js`
 
 
-For these challenges, I'll create three penguins for you to work with. Copu paste these to your `js` files.
+For these challenges, I'll create three penguins for you to work with. Copy paste these to your `js` files.
 
 ```js
 var gunter = {
